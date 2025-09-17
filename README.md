@@ -3,7 +3,7 @@
 ## Objective:
 Help an organization to improve employee performance and improve employee retention (reduce attrition) by creating a HR Analytics dashboard.
 
-![Spotify Logo](https://github.com/i-ayush-7/Spotify-Data-Analysis-Project/blob/main/Spotify%20Logo.jpg)
+![Dashboard](https://github.com/i-ayush-7/HR-Analytics-Power-Bi-/blob/main/HR%20Analytics%20Dashboard.png)
 
 ## Project Learnings:
 1. Identified key factors to reduce attrition.
